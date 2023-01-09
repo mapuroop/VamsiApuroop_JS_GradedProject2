@@ -88,7 +88,7 @@ var questions = [
   new Question("JavaScript is a ", ["Language", "Programming Language", "Development", "All"], "Programming Language")
 ];
 
-// create quiz
+// create quiz..
 var quiz = new Quiz(questions);
 
 // display quiz
