@@ -51,7 +51,7 @@
 				"Company Name": "Ibm",
 				"Position": "intern",
 				"Start Date": "2013-01-01",
-				"End Date": "2014-01-01",
+				"EndDate": "2014-01-01",
 				"Summary": " Learned about Tools used for website testing such as Deep Trawl, NVDA, web developer extension, OpenVAS,Learned about the importance and concept of OWASP.Learned React JS and worked for Frontend development with professional."
 		
 			},
@@ -130,10 +130,10 @@
 			
 			"work": 
 			{
-				"Company Name": "IBM",
+				"CompanyName": "IBM",
 				"Position": "Software Engineer",
 				"Start Date": "2020-01-01",
-				"End Date": "2022-01-01",
+				"EndDate": "2022-01-01",
 				"Summary": "Associate engineer with development, testing verification and validation experience on Car UI display systems.Performed phone projection development of user stories and testing with infotainment system such as Android auto ,Car playAnalyzed requirements , created test plans, executed test cases for connectivity epic such as C-connect, F-connect.Good at analyzing DLT logs and analyzing the code refactor areas."
 			},
 				
@@ -142,7 +142,7 @@
 				"Company Name": "Ibm",
 				"Position": "intern",
 				"Start Date": "2019-01-01",
-				"End Date": "2020-01-01",
+				"EndDate": "2020-01-01",
 				"Summary": " Learned about Tools used for website testing such as Deep Trawl, NVDA, web developer extension, OpenVAS,Learned about the importance and concept of OWASP.Learned React JS and worked for Frontend development with professional."
 		
 			},
@@ -160,7 +160,7 @@
 					"institute": "Nagarujana Institute of Technology",
 					"course": "B.E Computer Science and Engineering",
 					"Start Date": "2010-01-01",
-					"End Date": "2015-01-01",
+					"EndDate": "2015-01-01",
 					"cgpa":"9.7"
 				},	
 				"Senior Secondary" : 
@@ -227,10 +227,10 @@
 			
 			"work": 
 			{
-				"Company Name": "Great Learning",
+				"CompanyName": "Great Learning",
 				"Position": "Manager",
 				"Start Date": "2015-01-01",
-				"End Date": "2020-01-01",
+				"EndDate": "2020-01-01",
 				"Summary": "Associate engineer with development, testing verification and validation experience on Car UI display systems.Performed phone projection development of user stories and testing with infotainment system such as Android auto ,Car playAnalyzed requirements , created test plans, executed test cases for connectivity epic such as C-connect, F-connect.Good at analyzing DLT logs and analyzing the code refactor areas."
 			},
 				
@@ -239,7 +239,7 @@
 				"Company Name": "TCS",
 				"Position": "intern",
 				"Start Date": "2013-01-01",
-				"End Date": "2014-01-01",
+				"EndDate": "2014-01-01",
 				"Summary": " Learned about Tools used for website testing such as Deep Trawl, NVDA, web developer extension, OpenVAS,Learned about the importance and concept of OWASP.Learned React JS and worked for Frontend development with professional."
 		
 			},
@@ -257,7 +257,7 @@
 					"institute": "BMS Institute of Technology",
 					"course": "B.E Information Science and Engineering",
 					"Start Date": "2008-01-01",
-					"End Date": "2011-01-01",
+					"EndDate": "2011-01-01",
 					"cgpa":"8.7"
 				},	
 				"Senior Secondary" : 
@@ -319,10 +319,10 @@
 			
 			"work": 
 			{
-				"Company Name": "Cerner private lmtd.",
+				"CompanyName": "Cerner private lmtd.",
 				"Position": "HR",
 				"Start Date": "2015-01-01",
-				"End Date": "2020-01-01",
+				"EndDate": "2020-01-01",
 				"Summary": "Involve in various communication activites with client, Handling data for all employees"
 			},
 				
@@ -331,7 +331,7 @@
 				"Company Name": "TCS",
 				"Position": "intern",
 				"Start Date": "2013-01-01",
-				"End Date": "2014-01-01",
+				"EndDate": "2014-01-01",
 				"Summary": "Source potential candidates from various online channels,Craft recruiting emails to attract passive candidates,Screen incoming resumes and application forms "
 			},
 				
@@ -348,7 +348,7 @@
 					"institute": "BMS Institute of Technology",
 					"course": "MCA",
 					"Start Date": "2008-01-01",
-					"End Date": "2011-01-01",
+					"EndDate": "2011-01-01",
 					"cgpa":"8.7"
 				},	
 				"Senior Secondary" : 
@@ -410,10 +410,10 @@
 			
 			"work": 
 			{
-				"Company Name": "Cerner private lmtd.",
+				"CompanyName": "Cerner private lmtd.",
 				"Position": "HR",
 				"Start Date": "2015-01-01",
-				"End Date": "2020-01-01",
+				"EndDate": "2020-01-01",
 				"Summary": "Involve in various communication activites with client, Handling data for all employees"
 			},
 				
@@ -422,7 +422,7 @@
 				"Company Name": "TCS",
 				"Position": "intern",
 				"Start Date": "2013-01-01",
-				"End Date": "2014-01-01",
+				"EndDate": "2014-01-01",
 				"Summary": "Source potential candidates from various online channels,Craft recruiting emails to attract passive candidates,Screen incoming resumes and application forms "
 			},
 				
@@ -439,7 +439,7 @@
 					"institute": "BMS Institute of Technology",
 					"course": "MCA",
 					"Start Date": "2008-01-01",
-					"End Date": "2011-01-01",
+					"EndDate": "2011-01-01",
 					"cgpa":"8.7"
 				},	
 				"Senior Secondary" : 
@@ -501,10 +501,10 @@
 			
 			"work": 
 			{
-				"Company Name": "Cerner private lmtd.",
+				"CompanyName": "Cerner private lmtd.",
 				"Position": "HR",
 				"Start Date": "2015-01-01",
-				"End Date": "2020-01-01",
+				"EndDate": "2020-01-01",
 				"Summary": "Involve in various communication activites with client, Handling data for all employees"
 			},
 				
@@ -513,7 +513,7 @@
 				"Company Name": "TCS",
 				"Position": "intern",
 				"Start Date": "2013-01-01",
-				"End Date": "2014-01-01",
+				"EndDate": "2014-01-01",
 				"Summary": "Source potential candidates from various online channels,Craft recruiting emails to attract passive candidates,Screen incoming resumes and application forms "
 			},
 				
@@ -530,7 +530,7 @@
 					"institute": "BMS Institute of Technology",
 					"course": "MCA",
 					"Start Date": "2008-01-01",
-					"End Date": "2011-01-01",
+					"EndDate": "2011-01-01",
 					"cgpa":"8.7"
 				},	
 				"Senior Secondary" : 
