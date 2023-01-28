@@ -1,0 +1,76 @@
+#section{
+    max-width: 600px;
+    height: 400px;
+    margin: 150px 450px;
+    
+}
+.container {
+    
+    width: 75%;
+    height: 60%;
+    position: relative;
+    top: 20%;
+    left: 15%;
+}
+
+input[type=text], input[type=password] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 25px;
+  }
+  input[type="submit"] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: lightskyblue;
+  }
+
+  input[type="text"]:hover,input[type="password"]:hover{
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+
+  }
+
+  #search{
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+
+  }
+
+  #nextBtn{
+    width: 100px;
+   position: absolute;
+   right: 1%;
+   border-radius: 5px;
+   
+}
+
+#nextBtn:hover{
+    width: 120px;
+}
+
+.resumecontainer{
+    position: absolute;
+    top: 50%;
+    background-color: rebeccapurple;
+}
+
+
+
